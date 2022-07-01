@@ -1,2 +1,2 @@
 # MyProject
-This is my first repository
+PROIECT ANC - REZEANU IONUT GABRIEL
